@@ -1,8 +1,8 @@
 {
     "name": "hill/demo",
-    "description": "杩欐槸hill鐨勭涓€涓猟emo鍖?",
+    "description": "hill demo test",
     "type": "project",
-    "license": "fdsafdsaf-license",
+    "license": "dev",
     "autoload": {
         "psr-4": {
             "Hill\\Demo\\": "src/"
