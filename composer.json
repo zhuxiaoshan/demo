@@ -1,0 +1,17 @@
+{
+    "name": "hill/demo",
+    "description": "杩欐槸hill鐨勭涓€涓猟emo鍖?",
+    "type": "project",
+    "license": "fdsafdsaf-license",
+    "autoload": {
+        "psr-4": {
+            "Hill\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hill"
+        }
+    ],
+    "require": {}
+}
