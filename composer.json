@@ -2,7 +2,7 @@
     "name": "hill/demo",
     "description": "hill demo test",
     "type": "project",
-    "license": "dev",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "Hill\\Demo\\": "src/"
